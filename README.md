@@ -14,4 +14,4 @@ Foi utilizado um dataset público do estado de Goiás para produzir o material.
 ## 🛠 Tecnologias Utilizadas
 - Linguagem: Python
 - Ferramentas: Jupyter Notebook, pandas, matplotlib
-- Dataset: SEIDIGI
+- Dataset: SEIDIGI (https://dadosabertos.go.gov)
